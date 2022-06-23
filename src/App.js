@@ -1,11 +1,11 @@
-import React, { Component }  from 'react';
+import React  from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
+import MyNav from './components/MyNav';
 
 function App() {
   return (
-    <div> I am the app component
-    </div>
+    <MyNav />
   );
 }
 
