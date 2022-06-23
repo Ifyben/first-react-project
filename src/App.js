@@ -1,10 +1,10 @@
-import logo from './logo.svg';
+import React, { Component }  from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
 
 function App() {
   return (
-    <div>
+    <div> I am the app component
     </div>
   );
 }
